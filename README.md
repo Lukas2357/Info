@@ -1,5 +1,5 @@
 - 👋 Hello, this is Lukas!
 - 👀 I am interested in all types of Data Science!
-- 🌱 I am currently learning Tensorflow and C++ Basics!
-- 💞️ I am looking to collaborate on Machine Learning!
+- 🌱 I am currently learning SQL, C++ and some other stuff!
+- 💞️ I am looking to collaborate on ML, AI and related things!
 - 📫 Reach me by mail via lukashunold(at)web.de!
